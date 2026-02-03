@@ -114,14 +114,3 @@ Suggestions, bug reports, and feature ideas are welcome.
 This mod is not affiliated with or endorsed by Another Axiom.
 Use responsibly and follow Gorilla Tag’s modding and community guidelines.
 
-📜 License
-Check the repository for license details.
-
-If you want, I can:
-
-
-Make a shorter README
-
-
-Add a com
-
