@@ -1,3 +1,6 @@
+Join the alaric Discord now!!
+https://discord.gg/6QcpSpH6vX
+****
 🎙️ Alaric – Voice Command Mod for Gorilla Tag
 Alaric is a fast, clean, and efficient voice command assistant mod for Gorilla Tag, built on BepInEx.
 Inspired by classic assistants like Echo / Jarvis, Alaric lets you control gameplay, settings, players, and utilities hands-free using natural voice commands.
